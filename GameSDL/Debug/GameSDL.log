@@ -1,0 +1,3 @@
+﻿  MainObject.cpp
+C:\Users\thing\OneDrive\Documents\GameSDL\GameSDL\MainObject.cpp(74,67): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+  GameSDL.vcxproj -> C:\Users\thing\OneDrive\Documents\GameSDL\Debug\GameSDL.exe
